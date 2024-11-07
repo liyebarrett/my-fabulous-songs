@@ -69,9 +69,19 @@ Project is: Finished. Completed Assignment 2 for Working with Data and Code
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Refine syncopation patterns for greater rhythmic precision
+- Enhance modularity by further separating code sections for easier adjustments
+- Experiment with more complex harmonies to add depth
+- Adjust dynamics to create smoother transitions between sections
+- Optimize code for efficiency, particularly in loop structures
+- Improve timing on arpeggios to make sections feel more cohesive
+- Refine note lengths to better convey intended emotions
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Implement additional instrument sounds to expand tonal variety
+- Add a feature to adjust tempo dynamically within the code
+- Create custom functions for common patterns to streamline future coding
+- Experiment with polyphonic melodies for more layered compositions
+- Add more interactive elements, like tempo sliders or sound adjustments
+- Develop more complex rhythmic variations to add complexity to arrangements
+- Test and fine-tune each section for balanced, expressive output
