@@ -54,7 +54,7 @@
 - Minor Intervals and Low Notes for Ocarina and Guitar
 - Ambient Background through Loops
 - Modularity in Code
--Logical Structuring and Iterative Refinement
+- Logical Structuring and Iterative Refinement
 
 
 ## Screenshots
