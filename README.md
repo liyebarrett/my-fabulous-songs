@@ -1,5 +1,5 @@
 # Beats by Liye
-> In this project, I used creative coding then furthered it to creative coding in music. I coded three three-minute songs through the TunePad program and used loops, functions, and conditionals - some common programming techniques - to shape musical elements, such as rhythm, melody, and harmony. All of this, I kept a project journal, noting how different structures in code may affect how a song sounds. I watched loops create rhythms and functions stack harmonies, forming fuller compositions. Resources from TunePad to class materials connected the programming to music theory so I could adjust timing and pitch to refine each piece.
+> In this project, I used creative coding then furthered it to creative coding in music. I coded three three-minute songs through the TunePad program and used loops and functions - some common programming techniques - to shape musical elements, such as rhythm, melody, and harmony. All of this, I kept a project journal, noting how different structures in code may affect how a song sounds. I watched loops create rhythms and functions stack harmonies, forming fuller compositions. Resources from TunePad to class materials connected the programming to music theory so I could adjust timing and pitch to refine each piece.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,13 +14,10 @@
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Tunepad Website
 - Python Coding Language
-
 
 ## Features
 - Drums and Guitar Rhythm Coding
