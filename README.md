@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Beats by Liye
+> In this project, I used creative coding then furthered it to creative coding in music. I coded three three-minute songs through the TunePad program and used loops, functions, and conditionals - some common programming techniques - to shape musical elements, such as rhythm, melody, and harmony. All of this, I kept a project journal, noting how different structures in code may affect how a song sounds. I watched loops create rhythms and functions stack harmonies, forming fuller compositions. Resources from TunePad to class materials connected the programming to music theory so I could adjust timing and pitch to refine each piece.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,8 +8,6 @@
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-<!-- * [License](#license) -->
-
 
 ## General Information
 - Provide general information about your project here.
@@ -66,7 +64,6 @@
 Project is: Finished. Completed Assignment 2 for Working with Data and Code
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
 - Refine syncopation patterns for greater rhythmic precision
