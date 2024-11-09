@@ -53,8 +53,13 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+<img width="581" alt="Screen Shot 2024-11-09 at 1 05 04 pm" src="https://github.com/user-attachments/assets/4b5be947-c59c-45fe-a90c-5b74af1d8a61">
+<img width="481" alt="Screen Shot 2024-11-09 at 1 15 33 pm" src="https://github.com/user-attachments/assets/de6067f1-d383-43c4-952d-b85a692691c1">
+<img width="472" alt="Screen Shot 2024-11-09 at 1 15 24 pm" src="https://github.com/user-attachments/assets/a9c811ad-dcb3-4d61-8281-73646a1d759f">
+<img width="455" alt="Screen Shot 2024-11-09 at 1 14 05 pm" src="https://github.com/user-attachments/assets/421186a4-cc4c-48de-83c1-c90902d00621">
+<img width="546" alt="Screen Shot 2024-11-09 at 1 13 01 pm" src="https://github.com/user-attachments/assets/3e92b2db-4e1a-4bb3-8393-58f324196190">
+<img width="537" alt="Screen Shot 2024-11-09 at 1 11 15 pm" src="https://github.com/user-attachments/assets/4c6e2461-7248-492b-9f54-a3b82e9dd957">
+<img width="546" alt="Screen Shot 2024-11-09 at 1 05 23 pm" src="https://github.com/user-attachments/assets/d15edb61-863f-4eb9-8a27-f263c32c5077">
 
 
 ## Project Status
